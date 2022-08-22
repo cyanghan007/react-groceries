@@ -1,23 +1,23 @@
-React Groceries
+#React Groceries
 Build an app that let's you make a list of groceries to buy
 
-Learning Objectives
-Practice setting up a React app
-Practice Mocking a React app
-Practice using state
-Practice rendering a list
-Practice conditional rendering
-Prerequisites
+##Learning Objectives
+- Practice setting up a React app
+- Practice Mocking a React app
+- Practice using state
+- Practice rendering a list
+- Practice conditional rendering
+###Prerequisites
 Introduction to React static components, mocking, state, rendering
-Getting Started
-mkdir react_groceries
-cd react_groceries
-touch index.html app.js
-add all of the scripts for a react app
-Deliverables
+###Getting Started
+- mkdir react_groceries
+- cd react_groceries
+- touch index.html app.js
+- add all of the scripts for a react app
+###Deliverables
 Build a grocery app that allows users to make a grocery list
 
-Technical Requirements
+###Technical Requirements
 Read over these specs and draw a mockup of your app (don't worry about bonus features at this point)
 Must have grocery items in this shape
 {
